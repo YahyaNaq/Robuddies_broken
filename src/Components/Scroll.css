@@ -1,0 +1,35 @@
+/*body{
+    -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+    display: none;
+}*/
+
+/**{
+	scrollbar-width: auto;
+	scrollbar-color: #777 #555;
+}
+::-webkit-scrollbar {
+    scrollbar-width: auto;
+	scrollbar-color: #777 #555;
+
+}*/
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+div::-webkit-scrollbar {
+  width: 1em;
+}
+ 
+div::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+div::-webkit-scrollbar-thumb {
+  background-color: #99ffd9;
+  outline: 1px solid slategrey;
+  border-radius: 5px;
+}
