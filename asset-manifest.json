@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robuddies/static/css/main.d47a93bc.chunk.css",
+    "main.js": "/robuddies/static/js/main.ca70b4a5.chunk.js",
+    "main.js.map": "/robuddies/static/js/main.ca70b4a5.chunk.js.map",
+    "runtime-main.js": "/robuddies/static/js/runtime-main.7a5eeb81.js",
+    "runtime-main.js.map": "/robuddies/static/js/runtime-main.7a5eeb81.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robuddies/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f72ad6de.chunk.js": "/robuddies/static/js/2.f72ad6de.chunk.js",
+    "static/js/2.f72ad6de.chunk.js.map": "/robuddies/static/js/2.f72ad6de.chunk.js.map",
+    "static/js/3.0a9a211e.chunk.js": "/robuddies/static/js/3.0a9a211e.chunk.js",
+    "static/js/3.0a9a211e.chunk.js.map": "/robuddies/static/js/3.0a9a211e.chunk.js.map",
+    "index.html": "/robuddies/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robuddies/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d47a93bc.chunk.css.map": "/robuddies/static/css/main.d47a93bc.chunk.css.map",
+    "static/js/2.f72ad6de.chunk.js.LICENSE.txt": "/robuddies/static/js/2.f72ad6de.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robuddies/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a5eeb81.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f72ad6de.chunk.js",
+    "static/css/main.d47a93bc.chunk.css",
+    "static/js/main.ca70b4a5.chunk.js"
+  ]
+}
